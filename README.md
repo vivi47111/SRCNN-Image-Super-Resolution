@@ -8,5 +8,5 @@ Achieved an end-to-end learning framework for image synthesis.
 **Optimizer**: Utilized Adam optimizer with MSE loss to maximize PSNR; **Stability**: Integrated Batch Normalization and ReLU activation layers to stabilize internal covariate shift; **Robustness**: Implemented Data Augmentation and Dropout layers to mitigate overfitting.
 
 ## 3. Full Report
-👉 [Click here to view the Full 15-page PDF Report](./SRCNN_proj.pdf)
+👉 [Click here to view the project](./SRCNN_proj.pdf)
 
